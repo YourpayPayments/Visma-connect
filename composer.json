@@ -6,10 +6,5 @@
             "name": "Emil Jensen",
             "email": "eej@yourpay.io"
         }
-    ],
-    "minimum-stability": "dev",
-    "require": {
-    },
-    "require-dev": {
-    }
+    ]
 }
