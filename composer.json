@@ -1,7 +1,7 @@
 {
     "name": "yourpaypayments/visma-connect",
     "description": "VismaConnect class for connecting and authorization against Vismas services base on a previous version made by Mathias Gajhede",
-    "license": "MIT"
+    "license": "MIT",
     "authors": [
         {
             "name": "Emil Jensen",
